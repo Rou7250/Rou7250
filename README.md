@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roushan Kumar</h1>
-<h3 align="center">Python Developer | ML Engineer | AI Enthusiast | Data Analyst</h3>
+<h1 align="left">Hi 👋, I'm Roushan Kumar</h1>
+<h3 align="left">Python Developer | ML Engineer | AI Enthusiast | Data Analyst</h3>
 
 ---
 
